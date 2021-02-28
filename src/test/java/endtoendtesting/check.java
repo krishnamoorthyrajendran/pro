@@ -23,6 +23,6 @@ public class check extends base {
 
 		driver.get("http://qaclick acdememy.com/");
 		driver.get("http://qaclick acdememy.com 1234/");
-
+		driver.get("http://this is develop/");
 }
 }
