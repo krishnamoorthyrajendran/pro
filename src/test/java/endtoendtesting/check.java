@@ -17,5 +17,6 @@ public class check extends base {
 		driver.get("http://facebook.com/");
 		encap e1=new encap(driver);
 		e1.uname().sendKeys("dfdf");
+		driver.get("http://facebook.com/");
 }
 }
